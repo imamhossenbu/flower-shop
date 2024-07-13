@@ -36,26 +36,33 @@
 }
 #flower1{
     text-align: center;
-    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    height: 21.5em;
     background-color: #ebd7e1;
     border-top-left-radius: 50%;
     border-top-right-radius: 50%;
 }
 #flower2{
     text-align: center;
-    padding-top: 50px;
-    padding-bottom: 14px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    height: 21.5em;
     background-color: #cae7e8;
     border-top-left-radius: 50%;
     border-top-right-radius: 50%;
 }
 #flower2 img{
-    margin-top: 60px;
-    width: 70%;
+    width: 80%;
 }
 #flower3{
     text-align: center;
-    padding-top: 63px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    height: 21.5em;
     background-color: #dff0cf;
     border-top-left-radius: 50%;
     border-top-right-radius: 50%;
