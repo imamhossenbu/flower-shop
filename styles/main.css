@@ -22,7 +22,7 @@
     gap: 15px;
 }
 .flower{
-    width: 30%;
+    width: 33%;
 }
 .flower img{
     width: 70%;
@@ -69,4 +69,34 @@
 }
 #flower3 img{
     width: 60%;
+}
+.address-container{
+    width: 80%;
+    margin: 0 auto;
+    height: 220px;
+    margin-top: 80px;
+    background-color: rgba(132, 124, 124, 0.171);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+    border-radius: 5px;
+    margin-bottom: 300px;
+}
+.group{
+    text-align: center;
+}
+#group2 img{
+    width: 33%;
+}
+#group3 img{
+    width: 47%;
+}
+.group img{
+    width: 30%;
+    margin-bottom: 20px;
+}
+.group p{
+    opacity: 0.7;
+    font-weight: 800;
 }

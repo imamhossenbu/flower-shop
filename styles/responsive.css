@@ -25,6 +25,9 @@
     #flower1,#flower2,#flower3 img{
         width: 85%;
     }
+    .address-container{
+        width: 90%;
+    }
 }
 
 
@@ -66,6 +69,9 @@
     #flower1,#flower2,#flower3{
         height: 17em;
     }
+    .address-container{
+        width: 90%;
+    }
 }
 
 
@@ -103,6 +109,11 @@
     }
     .flower img{
         width: 60%;
+    }
+    .address-container{
+        flex-direction: column;
+        height: 100%;
+        padding: 20px 0;
     }
 }
 
