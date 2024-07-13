@@ -81,7 +81,7 @@
     align-items: center;
     gap: 80px;
     border-radius: 5px;
-    margin-bottom: 300px;
+    margin-bottom: 70px;
 }
 .group{
     text-align: center;
@@ -99,4 +99,34 @@
 .group p{
     opacity: 0.7;
     font-weight: 800;
+}
+.hot-deal-container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    background-color: #f1c2cc44;
+    margin-bottom: 100px;
+}
+.hot-deal-desc{
+    width: 30%;
+}
+.hot-deal-desc h1{
+    font-size: 28px;
+    font-weight: 900;
+    padding-bottom: 20px;
+}
+.hot-deal-desc p{
+    font-size: 0.8em;
+    opacity: 0.7;
+    padding-bottom: 20px;
+}
+.hot-deal-img{
+    width: 30%;
+}
+.hot-deal-img img{
+    width: 50%;
 }
