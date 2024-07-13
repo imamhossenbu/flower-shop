@@ -152,6 +152,10 @@
     .main-footer-container input{
         padding: 12px 30px 12px 10px;
     }
+    .footer-container{
+        width: 80%;
+        margin: 0 auto;
+    }
 }
 
 
