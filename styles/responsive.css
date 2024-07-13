@@ -137,6 +137,9 @@
         width: 90%;
         margin-top: 50px;
     }
+    .social-feature-container{
+        grid-template-columns: repeat(2,1fr);
+    }
 }
 
 
